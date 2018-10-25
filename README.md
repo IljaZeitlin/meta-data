@@ -3,5 +3,5 @@ Hier wollen wir unser tolles *Meta-Daten-Projekt* durchführen.
 
 ## Plan
 
-- 1. Monat: blub bla blub
-- 2. Monat: blub bla bla
+* Monat 1: blub bla blub
+* Monat 2: blub bla bla
